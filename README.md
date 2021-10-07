@@ -24,15 +24,20 @@ This repository I will use for some python exercises that I have been done, ther
 10.	Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
 
 11.	Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+    
     a.	o produto do dobro do primeiro com metade do segundo .
+    
     b.	a soma do triplo do primeiro com o terceiro.
+    
     c.	o terceiro elevado ao cubo.
 
 12.	Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58.
 
 13.	Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-    .	Para homens: (72.7*h) - 58
-    .	Para mulheres: (62.1*h) - 44.7
+    .	
+    Para homens: (72.7*h) - 58
+    .	
+    Para mulheres: (62.1*h) - 44.7
     
 14.	João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. 
 Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. 
@@ -43,17 +48,29 @@ Imprima os dados do programa com as mensagens adequadas.
 15.	Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. 
 Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados;
 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
-     .	salário bruto.
-    a.	quanto pagou ao INSS.
-    b.	quanto pagou ao sindicato.
-    c.	o salário líquido.
-    d.	calcule os descontos e o salário líquido, conforme a tabela abaixo:
-    e.	+ Salário Bruto : R$
-    f.	- IR (11%) : R$
-    g.	- INSS (8%) : R$
-    h.	- Sindicato ( 5%) : R$
+     .	
+     salário bruto.
+    a.	
+    quanto pagou ao INSS.
+    b.	
+    quanto pagou ao sindicato.
+    c.	
+    o salário líquido.
+    d.	
+    calcule os descontos e o salário líquido, conforme a tabela abaixo:
+    e.	
+    + Salário Bruto : R$
+    f.	
+    - IR (11%) : R$
+    g.	
+    - INSS (8%) : R$
+    h.	
+    - Sindicato ( 5%) : R$
+    
     = Salário Liquido : R$
+    
 Obs.: Salário Bruto - Descontos = Salário Líquido.
+
 
 16.	Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. 
 Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. 
