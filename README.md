@@ -4,20 +4,12 @@ This repository I will use for some python exercises that I have been done, ther
 link do site com todos os exercicios,
 https://wiki.python.org.br/ListaDeExercicios
 
-EstruturaSequencial
-
-EstruturaDeDecisao
-
-EstruturaDeRepeticao
-
-ExerciciosListas
-
-ExerciciosFuncoes
-
-ExerciciosComStrings
-
-ExerciciosArquivos
-
-ExerciciosClasses
-
-ListaDeExerciciosProjetos
+# - EstruturaSequencial
+# - EstruturaDeDecisao
+# - EstruturaDeRepeticao
+# - ExerciciosListas
+# - ExerciciosFuncoes
+# - ExerciciosComStrings
+# - ExerciciosArquivos
+# - ExerciciosClasses
+# - ListaDeExerciciosProjetos
