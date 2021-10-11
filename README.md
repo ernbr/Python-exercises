@@ -4,7 +4,7 @@ This repository I will use for some python exercises that I have been done, ther
 link do site com todos os exercicios,
 https://wiki.python.org.br/ListaDeExercicios
 
-[EstruturaSequencial](https://github.com/ernbr/Python-exercises/tree/python/EstruturaDeDecisao)  - ● REF - https://wiki.python.org.br/EstruturaSequencial : 18 - exercícios </br>
+[EstruturaSequencial](https://github.com/ernbr/Python-exercises/tree/python/EstruturaSequencial)  - ● REF - https://wiki.python.org.br/EstruturaSequencial : 18 - exercícios </br>
 [EstruturaDeDecisao](https://github.com/ernbr/Python-exercises/tree/python/EstruturaDeDecisao)   - ● REF - https://wiki.python.org.br/EstruturaDeDecisao : 28 - exercícios </br>
 EstruturaDeRepeticao   - ● REF - https://wiki.python.org.br/EstruturaDeRepeticao : 51 - exercícios </br>
 ExerciciosListas  - ● REF - https://wiki.python.org.br/ExerciciosListas : 24 - exercícios </br>
