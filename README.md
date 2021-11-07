@@ -7,7 +7,7 @@ https://wiki.python.org.br/ListaDeExercicios
 - [x] [EstruturaSequencial](https://github.com/ernbr/Python-exercises/tree/python/EstruturaSequencial)  - ● REF - https://wiki.python.org.br/EstruturaSequencial : 18 - exercícios </br>
 - [x] [EstruturaDeDecisao](https://github.com/ernbr/Python-exercises/tree/python/EstruturaDeDecisao)   - ● REF - https://wiki.python.org.br/EstruturaDeDecisao : 28 - exercícios </br>
 - [x] [EstruturaDeRepeticao](https://github.com/ernbr/Python-exercises/tree/python/EstruturaDeRepeticao)   - ● REF - https://wiki.python.org.br/EstruturaDeRepeticao : 51 - exercícios </br>
-- [ ] ExerciciosListas  - ● REF - https://wiki.python.org.br/ExerciciosListas : 24 - exercícios </br>
+- [ ] [ExerciciosListas](https://github.com/ernbr/Python-exercises/tree/python/ExerciciosListas)  - ● REF - https://wiki.python.org.br/ExerciciosListas : 24 - exercícios </br>
 - [ ] ExerciciosFuncoes  - ● REF - https://wiki.python.org.br/ExerciciosFuncoes : 14 - exercícios </br>
 - [ ] ExerciciosComStrings   - ● REF - https://wiki.python.org.br/ExerciciosComStrings : 14 - exercícios </br>
 - [ ] ExerciciosArquivos   - ● REF - https://wiki.python.org.br/ExerciciosArquivos  : 2 - exercícios </br>
